@@ -1,2 +1,4 @@
-# see you latter
-ql repo https://github.com/gys619/jdd.git "jd_|jx_|jddj_|gua_|getJDCookie|wskey" "activity|backUp" "^jd[^_]|USER|utils|ZooFaker_Necklace|JDJRValidator_|sign_graphics_validate|jddj_cookie|function|ql|magic|JDJR|JD" "main"
+拉库命令（使用前请公开库）
+```python
+ql repo https://github.com/1072609893/619_JD.git "'d_lix liddj lgua liddj lgetJDCookielwskey" "activity|backUp" "jd[^ ]IUSERlutils|ZooFaker NecklacelJDJRValidatorPure|sign_graphics_validateiddi cookie|function|ql"
+```
